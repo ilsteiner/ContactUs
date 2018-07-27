@@ -1,0 +1,16 @@
+﻿body {
+    font-family: Lato;
+}
+
+h1 {
+    font-family: Oswald;
+}
+
+.form-control {
+    background-color: lightgray;
+}
+
+.form-control:focus {
+    background-color: lightcyan;
+    color: black;
+}
